@@ -6,5 +6,6 @@
 - 😄 대명사: 까치
 - ⚡ 재미있는 사실: sima
 
+# https://magpie-gthwang.github.io/
 # web_hosting
 # https://youtu.be/BPXSM6PMRLM
